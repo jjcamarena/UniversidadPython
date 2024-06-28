@@ -19,3 +19,6 @@ print(variable)
 # Division con reasignacion
 variable /= 2
 print(variable)
+
+variable *= 2
+print(variable)
